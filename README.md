@@ -16,7 +16,6 @@ Restaurant diagrams
     <br>
     Diagram Conceptual
     </h1>
-  <p>Use [brModelo 3.2](https://sourceforge.net/projects/brmodelo/) for open this diagram</p>
   <img src="a1.png" alt="demo" width= 1920>
 </div>
 
@@ -38,6 +37,10 @@ Restaurant diagrams
 
 <hr />
 
+##How to open diagrams
+- For diagram conceptual and diagram logical open with [brModelo](https://sourceforge.net/projects/brmodelo/)
+- For Diagram Physical use [HeidiSQL](https://www.heidisql.com/) to open
+
 ## Built with
 [//]: # (Add the features of your project here:)
 
@@ -46,3 +49,4 @@ Restaurant diagrams
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+
