@@ -12,8 +12,8 @@ Restaurant diagrams
 </p>
 
 [//]: # (Add your gifs/images here:)
-<div>
-  <h1 aling="center">
+<div aling="center">
+  <h1>
     <br>
     Diagram Conceptual
     </h1>
