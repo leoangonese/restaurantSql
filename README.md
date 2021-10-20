@@ -28,7 +28,7 @@ Restaurant diagrams
     Diagram Logical
     </a>
     </h1>
-  <img src="a1.png" alt="demo" width= 1920>
+  <img src="a2.png" alt="demo" width= 1920>
 </div>
 
 <div>
@@ -38,7 +38,6 @@ Restaurant diagrams
     Diagram Physical
     </h1>
     </a>
-  <img src="a1.png" alt="demo" width= 1920>
 </div>
 
 <hr />
