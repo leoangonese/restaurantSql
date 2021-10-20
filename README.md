@@ -43,7 +43,7 @@ Restaurant diagrams
 
 <hr />
 
-## How to open diagrams
+## How to open diagrams?
 - For conceptual diagram and logic diagram open with [brModelo](https://sourceforge.net/projects/brmodelo/)
 - For Diagram Physical use [HeidiSQL](https://www.heidisql.com/) to open
 
