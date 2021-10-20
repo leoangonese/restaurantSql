@@ -18,17 +18,22 @@ Restaurant diagrams
     Diagram Conceptual
     </h1>
   <img src="a1.png" alt="demo" width= 1920>
-  
-    <h1 aling="center">
+</div>
+
+<div>
+  <h1 aling="center">
     <br>
     Diagram Logical
     </h1>
-  <img src="a2.png" alt="demo" width= 1920>
-  
-      <h1 aling="center">
+  <img src="a1.png" alt="demo" width= 1920>
+</div>
+
+<div>
+  <h1 aling="center">
     <br>
     Diagram Physical
     </h1>
+  <img src="a1.png" alt="demo" width= 1920>
 </div>
 
 <hr />
