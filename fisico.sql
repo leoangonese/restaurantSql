@@ -1,4 +1,3 @@
-r/* Modelo fisico */
 CREATE DATABASE restaurante;
 
 use restaurante;
