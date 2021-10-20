@@ -12,33 +12,36 @@ Restaurant diagrams
 </p>
 
 <div aling="center">
+<a href="https://github.com/leoangonese/restaurantSql/blob/main/conceitual.brM3">
   <h1>
     <br>
-      <a href="https://github.com/leoangonese/restaurantSql/blob/main/conceitual.brM3">
     Diagram Conceptual
-    </a>
+    
     </h1>
   <img src="a1.png" alt="demo" width= 1920>
+</a>
 </div>
 
 <div>
-  <h1 aling="center">
+  <a href="https://github.com/leoangonese/restaurantSql/blob/main/logico.brM3">
+  <h1>
     <br>
-    <a href="https://github.com/leoangonese/restaurantSql/blob/main/logico.brM3">
+
     Diagram Logical
     </a>
     </h1>
   <img src="a2.png" alt="demo" width= 1920>
+</a>
 </div>
 
 <div>
+<a href="https://github.com/leoangonese/restaurantSql/blob/main/fisico.sql">
   <h1 aling="center">
     <br>
-<a href="https://github.com/leoangonese/restaurantSql/blob/main/fisico.sql">
     Diagram Physical
     </h1>
-    </a>
 <img src="a3-1.png" alt="demo" width= 1920>
+    </a>
 </div>
 
 <hr />
