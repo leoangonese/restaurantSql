@@ -39,7 +39,6 @@ Restaurant diagrams
     </h1>
     </a>
 <img src="a3-1.png" alt="demo" width= 1920>
-<img src="a3.png" alt="demo" width= 1920>
 </div>
 
 <hr />
