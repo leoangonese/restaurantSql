@@ -3,7 +3,7 @@
 Restaurant diagrams
 </h1>
 
-<p align="center">This is progect is based in restaurant for create a diagrams/models: conceptual, logical and physical</p>
+<p align="center">This is a restaurant based project were made diagrams / models: conceptual, logical and physical</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
