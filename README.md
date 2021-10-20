@@ -36,7 +36,7 @@ Restaurant diagrams
 ## Built with
 [//]: # (Add the features of your project here:)
 
-- <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/SQL/SQL-original.svg"> HTML
+- <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg"> HTML
 - <img align="center" alt="HeidiSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/HeidiSQL/HeidiSQL-original.svg"> HTML
 
 ## License
